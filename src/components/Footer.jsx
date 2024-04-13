@@ -3,19 +3,19 @@ import React from 'react'
 const Footer = () => {
   return (
     <footer className="bg-gray-50 py-8 px-4 sm:px-8">
-      <div className="container mx-auto flex flex-col sm:flex-row gap-4 justify-between" >
-        <div className="flex justify-start items-start">
+      <div className="container mx-auto flex flex-col sm:flex-row gap-4 justify-between">
+        <div className="flex justify-center items-center p-4">
           <h1 className="font-bold text-3xl tracking-wide text-gray-800">
             LOGO
           </h1>
         </div>
 
-        <div className='flex flex-col sm:flex-row gap-12'>
+        <div className="flex flex-col sm:flex-row gap-12">
           <div className="inline-block">
             <h4 className="text-lg font-bold mb-2">Contact Us</h4>
-            <p>123 Street, City</p>
-            <p>Phone: 123-456-7890</p>
-            <p>Email: example@example.com</p>
+            <p>Kanpur U.P. </p>
+            <p>Phone: 9721880384</p>
+            <p>Email: 2612adityasingh2000@gmail.com</p>
           </div>
 
           <div className="inline-block">
