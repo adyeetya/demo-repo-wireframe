@@ -35,7 +35,7 @@ const Footer = () => {
         </div>
       </div>
 
-      <div className=" text-center lg:text-left mx-14 mt-8 text-sm">
+      <div className="container text-center lg:text-left mx-auto mt-8 text-sm">
         <p>Created by Aditya Singh &copy; 2024</p>
         <p>
           <a href="#" className="mr-2">
