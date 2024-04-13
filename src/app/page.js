@@ -47,8 +47,8 @@ export default function Home() {
           ))}
         </div>
       </section>
-      <section className="mx-auto my-12 flex justify-center bg-gray-100 p-12">
-        <div className="container flex flex-col sm:flex-row justify-between p-4">
+      <section className="mx-auto my-12 flex justify-center bg-gray-100 p-4 sm:p-12">
+        <div className="container flex flex-col sm:flex-row justify-between sm:p-4">
           <div className="">
             <h2 className="text-3xl font-bold mb-4">For Franchise Inquiry</h2>
             <p className="text-lg mb-4">
